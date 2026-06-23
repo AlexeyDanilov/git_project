@@ -4,3 +4,6 @@
 [submodule "monkey"]
 	path = monkey
 	url = https://github.com/guardicore/monkey.git
+[submodule "second-project"]
+	path = second-project
+	url = https://github.com/AlexeyDanilov/second-project.git
