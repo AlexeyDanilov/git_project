@@ -1,0 +1,6 @@
+[submodule "Python"]
+	path = Python
+	url = https://github.com/TheAlgorithms/Python
+[submodule "monkey"]
+	path = monkey
+	url = https://github.com/guardicore/monkey.git
